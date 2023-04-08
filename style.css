@@ -37,7 +37,6 @@ main {
 
 section {
   width: 100%;
-  max-width: 768px;
   display: flex;
   justify-content: center;
   background: hsl(0, 0%, 100%);
