@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Hanken Grotesk';
+    font-family: 'Hanken Grotesk v2';
     src: url(assets/fonts/HankenGrotesk-VariableFont_wght.ttf);
 }
 @font-face {
@@ -13,4 +13,8 @@
 @font-face {
     font-family: 'Hanken Grotesk Medium';
     src: url(assets/fonts/static/HankenGrotesk-Medium.ttf);
+}
+
+*{
+    font-family: 'Hanken Grotesk', sans-serif;
 }
