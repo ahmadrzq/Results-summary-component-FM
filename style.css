@@ -223,6 +223,7 @@ section {
   .result {
     border-bottom-left-radius: 40px;
     border-bottom-right-radius: 40px;
+    border-top-right-radius: 0px;
   }
   .row {
     padding: 1.3em 1em;
